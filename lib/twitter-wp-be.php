@@ -10,7 +10,7 @@
  *
  */
 
-class Twitter_WP_BE extends Twitter_WP {
+class Twitter_WP_BE extends TwitterWP {
 
 	/**
 	 * Interfaces with users/search.json API endpoint.
