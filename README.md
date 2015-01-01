@@ -15,7 +15,7 @@ define( 'ACCESS_TOKEN'       , 'XXX' );
 define( 'ACCESS_TOKEN_SECRET', 'XXX' );
 ```
 
-Don't have this info yet?  [This tutorial](https://themepacific.com/how-to-generate-api-key-consumer-token-access-key-for-twitter-oauth/994/) should prove helpful. Much thanks to @jtsternberg for his sweet little OAuth Twitter library.
+Don't have this info yet?  [This tutorial](https://themepacific.com/how-to-generate-api-key-consumer-token-access-key-for-twitter-oauth/994/) should prove helpful. Much thanks to [@jtsternberg](https://twitter.com/Jtsternberg) for his [sweet little OAuth Twitter library](github.com/jtsternberg/TwitterWP).
 
 How It All Works
 ================
